@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**JividhaSrivastava94/JividhaSrivastava94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer | Founder of Blooming Sparrow | Final Year B.Tech CSE
 
-Here are some ideas to get you started:
+I am a results-driven **MERN Stack Developer** currently in my final year of B.Tech. I enjoy building scalable web applications and exploring the intersection of technology and business strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Learning:** Data Science & Advanced Backend Architectures
+
+---
+
+### 💼 Current Ventures
+- **Founder @ Blooming Sparrow:** Leading a creative analytical framework built on a zero-investment, profit-sharing model.
+- **Internship Seeking:** Actively looking for a remote MERN Stack role with PPO opportunities.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+
+---
+
+### 📫 Reach Me
+- **LinkedIn:** [Link to your LinkedIn]
+- **Portfolio:** [Link to your Portfolio]
+
+*"Resilience is the key to building something great."*
